@@ -1,0 +1,18 @@
+
+path: ../datasets/Tomates new
+train: images/train 
+val: images/val  
+test:
+
+# Classes
+names:
+  0: rojo
+  1: rojo-naranja
+  2: naranja
+  3: rayado
+  4: salmon
+  5: verde
+  
+
+# Download script/URL (optional)
+download: https://ultralytics.com/assets/coco128-seg.zip
