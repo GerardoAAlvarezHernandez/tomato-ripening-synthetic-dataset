@@ -201,7 +201,7 @@ If you use this code or dataset in your research, please cite:
 
 ```bibtex
 @article{alvarez2025tomato,
-  author  = {Álvarez-Hernández, Gerardo A. and [COMPLETAR: co-autores]},
+  author  = {Álvarez-Hernández, Gerardo A. and Vasquez-Gomez,J. Irving and Uriarte-Arcia, Abril Valeria and Tovar-Ortiz, Luis Alberto},
   title   = {Synthetic Dataset Generation for Tomato Ripening Stage Detection in Different Scenes},
   journal = {IEEE Latin America Transactions},
   year    = {2026}
