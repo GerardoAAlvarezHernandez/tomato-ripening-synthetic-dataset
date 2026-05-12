@@ -4,13 +4,13 @@
 **Manuscript ID:** 10390   
 
 **Authors:**
-- Gerardo A. Álvarez-Hernández — Centro de Investigación en Computación (CIDETEC), 
+- Gerardo A. Álvarez-Hernández — Centro de Innovación y Desarrollo Tecnológico en Cómputo (CIDETEC), 
 Instituto Politécnico Nacional, Mexico City, Mexico (galvarezh1400@alumno.ipn.mx)
-- Juan Irving Vasquez Gomez — Centro de Investigación en Computación (CIDETEC), 
+- Juan Irving Vasquez Gomez — Centro de Innovación y Desarrollo Tecnológico en Cómputo (CIDETEC), 
 Instituto Politécnico Nacional, Mexico City, Mexico
-- Abril Valeria Uriarte Arcia — Centro de Investigación en Computación (CIDETEC), 
+- Abril Valeria Uriarte Arcia — Centro de Innovación y Desarrollo Tecnológico en Cómputo (CIDETEC), 
 Instituto Politécnico Nacional, Mexico City, Mexico
-- Luis Alberto Tovar Ortiz — Centro de Investigación en Computación (CIDETEC), 
+- Luis Alberto Tovar Ortiz — Centro de Innovación y Desarrollo Tecnológico en Cómputo (CIDETEC), 
 Instituto Politécnico Nacional, Mexico City, Mexico
 
 ---
@@ -226,7 +226,7 @@ If you use this code or dataset in your research, please cite:
 For questions about this code or requests to reproduce the results:
 
 **Gerardo A. Álvarez-Hernández**  
-Centro de Investigación en Computación (CIDETEC), 
+Centro de Innovación y Desarrollo Tecnológico en Cómputo (CIDETEC), 
 Instituto Politécnico Nacional, Mexico City, Mexico  
 📧 galvarezh1400@alumno.ipn.mx
 
